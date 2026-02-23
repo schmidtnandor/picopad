@@ -1,0 +1,2 @@
+https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-gfx-graphics-library.pdf
