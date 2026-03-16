@@ -6,3 +6,8 @@
 test/README
 lib/README
 include/README
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+fp-info-cache
