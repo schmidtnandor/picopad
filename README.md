@@ -14,3 +14,7 @@ I wanted to make a custom PCB with a custom RP2040(the Pico runs on this) - base
 - [Inspiration for the project and wiring of the switches](https://www.hackster.io/1NextPCB/how-to-build-a-pico-macro-pad-3638e6)
 - [Guide for the PCB](https://www.youtube.com/watch?v=RNH-CL8GrF8)
 - AI for some help(wiring up the screen, fixing floating inputs)(about 90% of the firmware was written by me, the drawing on the screen, the input handling was done by me)
+# Gallery
+![1000018659](https://github.com/user-attachments/assets/417ac4e1-91de-4ea7-b627-157b55a4f8df)
+![1000018666](https://github.com/user-attachments/assets/65dd73c0-0b47-42a3-9797-24c999b1a190)
+
